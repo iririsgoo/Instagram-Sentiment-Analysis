@@ -1,7 +1,7 @@
 # Instagram-Sentiment-Analysis
 
 ## Overview:
-A sentimental analysis conducted on the most sentimental person I've ever known (Just for fun)
+A sentimental analysis conducted on the most sentimental person (Just for fun)
 
 ## Data Source
 1. Twitter: You can apply for API at [Twitter For Developer](https://developer.twitter.com/en/docs)
