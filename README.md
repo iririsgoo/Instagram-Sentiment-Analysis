@@ -8,7 +8,7 @@ A sentimental analysis conducted on the most sentimental person I've ever known 
 2. Instagram no longer provides public API. I used the automatic scraper by [APIFY](https://apify.com/) instead.
 
 ## First Try:
-His Twitter would automatically repost Instagram posts, and only Twitter has open API.
+Because 1. Twitter would automatically repost his Instagram posts. 2. Twitter has public API and IG doesn't
 First I decided to just analyze on his Twitter posts to avoid the complication of dealing with mannually scrapying from Instagram.
 However, after I got the data from Twitter's API, I realized twitter reposts don't always show the complete posts and many long posts are replaced by the original post link, which caused error in my analysis results.
 
