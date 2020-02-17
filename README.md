@@ -34,7 +34,7 @@ So, I have to go with the original posts on Instagram.
 ![](images/positive_negative.png)
 ![](images/emotion%20Distribution.png)
 
-### Which Emotions are liked most?
+### Which Emotions are most liked by followers?
 ![](images/emotion%20and%20likecount%20corr.png)
 ![](images/emotion%20and%20likecount%20correlation.png)
 
