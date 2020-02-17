@@ -27,10 +27,11 @@ So, I have to go with the original posts on Instagram.
 
 ### Screaming and Exclamation mark, and for what？
 ![](images/screaming%20posts.png)
+>> He's obviously so excited about this astrophysics conference that he used 28 exclamation marks in the post. I'm not surprised.
 
-
-### Most Common Words (Gratitude is the attitude!)
+### Most Common Words 
 ![](images/Most%20Common%20Words.png)
+>> Thanks is the most common word. Gratitude is the attitude!
 
 ### Emotion distribution
 ![](images/positive_negative.png)
@@ -39,6 +40,7 @@ So, I have to go with the original posts on Instagram.
 ### Which Emotions are most liked by followers?
 ![](images/emotion%20and%20likecount%20corr.png)
 ![](images/emotion%20and%20likecount%20correlation.png)
+>> Seems his followers like it most when he is joyful, hopeful and positive. Social media doesn't let me down this time. "There are still faint glimmers of civilization left in this barbaric slaughterhouse that was once known as humanity."
 
 ### Comparison Word Cloud
 ![](images/comparison%20word%20cloud.png)
