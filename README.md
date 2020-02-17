@@ -26,11 +26,15 @@ So, I have to go with the original posts on Instagram.
 > Posts Length in sentences
 > Posts Length in characters
 
-2. When is he most excited?
+2. Screaming and !!!! time, and for what？
 
-3. What made him so?
+3. Most Common Words (Gratitude is the attitude!)
 
-4. Most Common Words
+4. Emotion distribution
+
+5. Which Emotions are liked most?
+
+6. Comparison Word Cloud
 
 
 
