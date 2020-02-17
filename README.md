@@ -21,12 +21,11 @@ So, I have to go with the original posts on Instagram.
   '''
   nchar(tweets$text)
   '''
-
 > Posts Length in words
 > Posts Length in sentences
 > Posts Length in characters
 
-2. Screaming and !!!! time, and for what？
+2. Screaming and Exclamation mark, and for what？
 
 3. Most Common Words (Gratitude is the attitude!)
 
