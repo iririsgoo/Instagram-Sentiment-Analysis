@@ -1,4 +1,4 @@
-# Social Media -Sentiment-Analysis
+# Social Media Sentiment Analysis
 
 ## Overview:
 A sentimental analysis conducted on the most sentimental person (Just for fun)
