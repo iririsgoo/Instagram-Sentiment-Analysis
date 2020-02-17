@@ -5,7 +5,7 @@ A sentimental analysis conducted on the most sentimental person I've ever known 
 
 ## Data Source
 1. Twitter: You can apply for API at [Twitter For Developer](https://developer.twitter.com/en/docs)
-2. Instagram no longer provides public API. I used the automatic scraper by [APIFY](https://apify.com/) instead.
+2. Instagram no longer provides public API. I used the automatic scraper developed by [APIFY](https://apify.com/) instead.
 
 ## First Try:
 Because 1. Twitter would automatically repost his Instagram posts. 2. Twitter has public API and IG doesn't
