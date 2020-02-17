@@ -28,13 +28,18 @@ So, I have to go with the original posts on Instagram.
 2. Screaming and Exclamation mark, and for what？
 
 3. Most Common Words (Gratitude is the attitude!)
+![](images/Most%20Common%20Words.png)
 
 4. Emotion distribution
+![](images/positive_negative.png)
+![](images/emotion%20Distribution.png)
 
 5. Which Emotions are liked most?
+![](images/emotion%20and%20likecount%20corr.png)
+![](images/emotion%20and%20likecount%20correlation.png)
 
 6. Comparison Word Cloud
-
+![](images/comparison%20word%20cloud.png)
 
 
 
