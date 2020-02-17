@@ -26,6 +26,8 @@ So, I have to go with the original posts on Instagram.
 > Posts Length in characters
 
 ### Screaming and Exclamation mark, and for what？
+![](images/screaming%20posts.png)
+
 
 ### Most Common Words (Gratitude is the attitude!)
 ![](images/Most%20Common%20Words.png)
