@@ -16,7 +16,7 @@ However, after I got the data from Twitter's API, I realized twitter don't alway
 So, I have to go with the original posts on Instagram.
 
 ## Analysis
-1. Posts length 
+### Posts length 
 > Posts Length in characters
   '''
   nchar(tweets$text)
@@ -25,20 +25,20 @@ So, I have to go with the original posts on Instagram.
 > Posts Length in sentences
 > Posts Length in characters
 
-2. Screaming and Exclamation mark, and for what？
+### Screaming and Exclamation mark, and for what？
 
-3. Most Common Words (Gratitude is the attitude!)
+### Most Common Words (Gratitude is the attitude!)
 ![](images/Most%20Common%20Words.png)
 
-4. Emotion distribution
+### Emotion distribution
 ![](images/positive_negative.png)
 ![](images/emotion%20Distribution.png)
 
-5. Which Emotions are liked most?
+### Which Emotions are liked most?
 ![](images/emotion%20and%20likecount%20corr.png)
 ![](images/emotion%20and%20likecount%20correlation.png)
 
-6. Comparison Word Cloud
+### Comparison Word Cloud
 ![](images/comparison%20word%20cloud.png)
 
 
