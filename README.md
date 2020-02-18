@@ -54,7 +54,9 @@ Posts Length in characters
 
 
 
-#### Important disclaimer: All the data I used are publicly available data. Should there be an issue of privacy I would be willing to delete this repository. Also, no animals were harmed during the analysis. 
+#### Important disclaimer: 
+All the data I used are publicly available data. If there is an issue of privacy concerning anyone please let me know. 
+Also, no animals were harmed during the analysis. 
 
 
 
