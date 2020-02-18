@@ -26,8 +26,10 @@ Posts Length in characters
 > Posts Length in characters
 
 ### Screaming and Exclamation mark, and for what？
- <img src="screaming%20posts.png" width="40%">
+ <img src="images/screaming%20posts.png" width="40%">
+
 ![](images/screaming%20posts.png)
+
 >> He's obviously so excited about this astrophysics conference that he used 28 exclamation marks in the post. I'm not surprised.
 
 ### Most Common Words 
