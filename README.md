@@ -26,11 +26,12 @@ So, I have to go with the original posts on Instagram.
 > Posts Length in characters
 
 ### Screaming and Exclamation mark, and for what？
-![](images/screaming%20posts.png){:height="24px" width="48px"}
+ <img src="screaming%20posts.pn" width="40%">
+![](images/screaming%20posts.png)
 >> He's obviously so excited about this astrophysics conference that he used 28 exclamation marks in the post. I'm not surprised.
 
 ### Most Common Words 
-![](images/Most%20Common%20Words.png {:height="50%" width="50%"})
+![](images/Most%20Common%20Words.png)
 
 >> Thanks is the most common word. Gratitude is the attitude!
 
