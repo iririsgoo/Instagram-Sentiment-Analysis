@@ -30,7 +30,8 @@ So, I have to go with the original posts on Instagram.
 >> He's obviously so excited about this astrophysics conference that he used 28 exclamation marks in the post. I'm not surprised.
 
 ### Most Common Words 
-![](images/Most%20Common%20Words.png)
+![](images/Most%20Common%20Words.png {:height="50%" width="50%"})
+
 >> Thanks is the most common word. Gratitude is the attitude!
 
 ### Emotion distribution
