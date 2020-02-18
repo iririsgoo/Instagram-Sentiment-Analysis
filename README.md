@@ -37,7 +37,7 @@ Posts Length in characters
 > "Thanks" is the most common word. Gratitude is the attitude!
 
 ### Emotion distribution
-> <img src="images/positive_negative.png" width="50%"/> <img src="images/emotion%20Distribution.png" width="50%"/>
+<img src="images/positive_negative.png" width="50%"/> <img src="images/emotion%20Distribution.png" width="50%"/>
 
 ### Which Emotions are most liked by followers?
 > <img src="images/emotion%20and%20likecount%20corr.png" width="60%"/> <img src="images/emotion%20and%20likecount%20correlation.png" width="60%">
