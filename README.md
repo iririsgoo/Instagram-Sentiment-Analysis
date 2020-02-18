@@ -40,10 +40,10 @@ Posts Length in characters
 > <img src="images/positive_negative.png" width="50%"/> <img src="images/emotion%20Distribution.png" width="50%"/>
 
 ### Which Emotions are most liked by followers?
-<p float="left">
+> <p float="left">
   <img src="images/emotion%20and%20likecount%20corr.png" width="50%"/> 
   <img src="images/emotion%20and%20likecount%20correlation.png" width="50%">
-</p>
+  </p>
 
 > Followers like it most when he is joyful, hopeful and positive. 
 > Social media, I'm so glad to see "there are still faint glimmers of civilization left in this barbaric slaughterhouse that was once known as humanity."
