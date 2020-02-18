@@ -6,7 +6,7 @@ A sentimental analysis conducted on the most sentimental person, one of my favou
 ## Data Source
 1. Twitter: You can apply for API at [Twitter For Developer](https://developer.twitter.com/en/docs)
 2. Instagram no longer provides public API. I used the automatic scraper developed by [APIFY](https://apify.com/) instead.
-The dataset I used in this project is his instagram posts, dated from 
+The dataset I used in this project are 8000 instagram posts dated from 2017-09-10 to 2019-10-06. 
 
 ## First Try:
 >Because Twitter would automatically repost his Instagram posts，Twitter has public API, and IG doesn't
@@ -18,18 +18,17 @@ The dataset I used in this project is his instagram posts, dated from
 
 ## Analysis
 ### Posts length 
-Posts Length in characters
-  '''
-  nchar(tweets$text)
-  '''
+> Posts Length in characters
 > Posts Length in words
 > Posts Length in sentences
 > Posts Length in characters
 
-### Screaming posts with 28 Exclamation marks, what's so exciting?
+### On which day did he post the most?
+
+### Screaming posts with a max of 28 Exclamation marks 
 > <img src="images/screaming%20posts.png" width="60%">
 
-> He's obviously so excited about this astrophysics conference that he used 28 exclamation marks in the post. I'm not surprised.
+> He's obviously so excited about an astrophysics conference last summer that he used 28 exclamation marks in the post. Not surprised.
 
 ### Most Common Words 
 > <img src="images/Most%20Common%20Words.png" width="60%">
