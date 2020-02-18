@@ -57,7 +57,9 @@ The dataset I used in this project are 8000 instagram posts dated from 2017-09-1
 
 
 #### Important disclaimer: 
-This is an analysis on one personal, but all the data I used are publicly available data. If there is an issue of privacy concerning anyone please let me know. 
+This is an analysis done on one person's data, but all the data I used are publicly accessible. 
+
+If there is an issue of privacy concerning anyone please let me know. 
 
 PS. No animals were harmed during the analysis. 
 
