@@ -44,8 +44,11 @@ Posts Length in characters
 > Seems his followers like it most when he is joyful, hopeful and positive. 
 > Social media, I'm so glad to see "there are still faint glimmers of civilization left in this barbaric slaughterhouse that was once known as humanity."
 
+### Word cloud
+> <img src="images/word%20cloud.png" width="60%">
+
 ### Comparison Word Cloud
-<img src="images/comparison%20word%20cloud.png" width="60%">
+> <img src="images/comparison%20word%20cloud.png" width="60%">
 
 
 
