@@ -1,7 +1,7 @@
 # Social Media Sentiment Analysis
 
 ## Overview:
-A sentimental analysis conducted on the most sentimental person, one of my favourite guitarists from Queen, Brian May [Instagram](https://www.instagram.com/brianmayforreal/?hl=en)
+A sentimental analysis conducted on the most sentimental person, one of my favourite guitarists from Queen, Brian May [brianmayforreal Instagram](https://www.instagram.com/brianmayforreal/?hl=en)
 
 ## Data Source
 1. Twitter: You can apply for API at [Twitter For Developer](https://developer.twitter.com/en/docs)
