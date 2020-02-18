@@ -6,6 +6,7 @@ A sentimental analysis conducted on the most sentimental person, one of my favou
 ## Data Source
 1. Twitter: You can apply for API at [Twitter For Developer](https://developer.twitter.com/en/docs)
 2. Instagram no longer provides public API. I used the automatic scraper developed by [APIFY](https://apify.com/) instead.
+The dataset I used in this project is his instagram posts, dated from 
 
 ## First Try:
 >Because Twitter would automatically repost his Instagram posts，Twitter has public API, and IG doesn't
@@ -41,7 +42,7 @@ Posts Length in characters
 ### Which Emotions are most liked by followers?
 > <img src="images/emotion%20and%20likecount%20corr.png" width="60%"/> <img src="images/emotion%20and%20likecount%20correlation.png" width="60%">
 
-> Seems his followers like it most when he is joyful, hopeful and positive. 
+> Followers like it most when he is joyful, hopeful and positive. 
 > Social media, I'm so glad to see "there are still faint glimmers of civilization left in this barbaric slaughterhouse that was once known as humanity."
 
 ### Word cloud
@@ -53,7 +54,7 @@ Posts Length in characters
 
 
 
-
+#### Important disclaimer: All the data I used are publicly available data. Should there be an issue of privacy I would be willing to delete this repository. Also, no animals were harmed during the analysis. 
 
 
 
