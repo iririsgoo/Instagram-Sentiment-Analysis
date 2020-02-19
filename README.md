@@ -14,7 +14,7 @@ The dataset I used in this project are 8000 instagram posts dated from 2017-09-1
 >First I decided to just analyze on his Twitter posts to avoid the complication of dealing with mannually scrapying from Instagram.
 >However, after I got the data from Twitter's API [Twitter API data](DrBrianMay_tweets%20from%20twitter%20API.csv), I realized twitter don't always repost the complete text. Many long posts are replaced by a hyperlink redirecting readers to original posts, which caused error in my analysis results.
 
->So I have to go with the original posts on Instagram. [APIFy data](brianins.csv)
+>So I had to go with the original posts on Instagram. [APIFY data](brianins.csv)
 
 ## Analysis
 ### Posts length 
