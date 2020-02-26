@@ -25,7 +25,7 @@ The dataset I used in this project are 8000 instagram posts dated from 2017-09-1
 
 ### On which day did he post the most?
 
-### Screaming posts with a max of 28 Exclamation marks 
+### Screaming posts with a max of 28 exclamation marks (wow
 > <img src="images/screaming%20posts.png" width="60%">
 
 > He's obviously so excited about an astrophysics conference last summer that he used 28 exclamation marks in the post. Not surprised.
